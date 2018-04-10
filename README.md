@@ -8,12 +8,13 @@ A website that allows users to enter contacts with multiple addresses. (9/04/18)
 Input fields include ```first name```, ```last name```, ```email```,  and ```Phone number```.
 
 Functionality;
-click on contacts name to view contacts list
-Add contacts,edit contacts and delete contacts
+click on contacts name to view contacts list,
+Add contacts form,
+edit contacts and delete contacts.
 
 
- Technologies Used
-HTML, CSS, JavaScript, jQuery,Json
+Technologies Used; 
+HTML, CSS, JavaScript, jQuery,JSON.
 
 
 Legal
