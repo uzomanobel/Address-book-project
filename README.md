@@ -7,8 +7,9 @@ A website that allows users to enter contacts with multiple addresses. (9/04/18)
  Description
 Input fields include ```first name```, ```last name```, ```email```,  and ```Phone number```.
 
-Setup
- Open "index.html" from the main project folder.
+Functionality;
+click on contacts name to view contacts list
+Add contacts,edit contacts and delete contacts
 
 
  Technologies Used
