@@ -14,7 +14,7 @@ edit contacts and delete contacts.
 
 
 Technologies Used; 
-HTML, CSS, JavaScript, jQuery,JSON.
+HTML, CSS, JavaScript.
 
 
 Legal
