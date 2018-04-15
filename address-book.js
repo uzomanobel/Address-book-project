@@ -32,7 +32,7 @@ function toggleTable ()//click on to view contacts names details
                         };
                         if (entry.id == 0) {
                             // add
-                            Contacts.storeAdd(entry);
+                            Contacts.storeAdd(entry);  
                             Contacts.tableAdd(entry);
                         } else {
                             // edit
